@@ -51,8 +51,7 @@
         WRONG PASSWORD <br>
         WRONG PASSWORD <br>
         ACCOUNT LOCKED </p>
-        
-    <img src="state.jpg"alt>
+        <img src="state.jpg"alt>
         <br>
         <pr> for the 4th try it will be blocked the access <br>
             and you can't able to acces the data on that site this is the state transition testing  
